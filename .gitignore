@@ -20,3 +20,4 @@ node_modules
 !05-kanban/seed.ts
 !05-kanban/tsconfig.json
 !05-kanban/.env.example
+!05-kanban/db/
